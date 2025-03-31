@@ -1,0 +1,40 @@
+Privacy Policy - Meta-analysis & Systematic REVIEW API - Reporting & Output Generation Module
+Introduction
+This Privacy Policy outlines how the Reporting & Output Generation Module of the Meta-analysis & Systematic REVIEW API ("Service") collects, uses, processes, and protects your data. This policy specifically applies to the report generation, visualization, and publication output components of our API.
+Data We Collect
+The Service collects and processes the following types of data:
+Analysis Result Data: Statistical results, effect sizes, confidence intervals, and other quantitative outputs from meta-analyses.
+Visualization Parameters: Configuration preferences for generating figures, plots, and dashboards.
+Manuscript Content: Text and structured content for generating publication sections, including methods, results, and discussions.
+Model Parameters: Technical preferences and configurations related to AI model usage.
+How We Use Your Data
+Your data is used solely for the following purposes:
+Figure Generation: Creating publication-quality visualizations such as forest plots, funnel plots, and risk of bias assessments.
+Manuscript Development: Generating structured manuscript sections following reporting guidelines like PRISMA.
+Dashboard Creation: Building interactive data exploration interfaces for review results.
+API Processing: Facilitating the technical operation of the API services.
+Data Processing and Security
+We implement appropriate technical measures to secure your data:
+Encryption: All data in transit is encrypted using industry-standard TLS/SSL protocols.
+Temporary Storage: Analysis results are stored temporarily only for the duration needed to process requests.
+Access Controls: Only authorized personnel with specific technical roles can access system components.
+No Retention: By default, we do not permanently store your analysis data or generated content.
+Third-Party Services
+The Service utilizes OpenAI's API for text generation and content processing:
+OpenAI Services: Your requests are processed using OpenAI's GPT models via secure API calls.
+Data Transmission: When you use our Service, your structured data may be transmitted to OpenAI's servers through your API key.
+Third-Party Policies: Please refer to OpenAI's Privacy Policy for details on how they handle data.
+Your Rights
+You have the following rights regarding your data:
+Access: Request information about what data is processed during your API calls.
+Deletion: Request deletion of any temporarily stored data associated with your account.
+Export: Export any processed results or generated content before they expire.
+Control: Maintain control over your OpenAI API key and usage limits.
+Data Retention
+Temporary Storage: Generated reports, figures, and dashboard configurations remain available for download for a limited period (typically 24 hours).
+Automatic Deletion: All processed data is automatically deleted after the temporary retention period.
+No Analytics: We do not store or analyze usage patterns of visualization and reporting features for analytics purposes.
+Changes to This Policy
+We may update this policy periodically to reflect changes in our practices or regulatory requirements. Significant changes will be communicated through our service documentation or API notifications.
+Contact Information
+For questions about this privacy policy or data processing practices related to the Reporting & Output Generation Module, please contact us at privacy@meta-analysis-api.com.
